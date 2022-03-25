@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "text": "Laborator facultate",
+      "day": "20 Martie 13:00",
+      "reminder": true,
+      "id": 4
+    },
+    {
+      "text": "Shopping",
+      "day": "21 Martie 13:30",
+      "reminder": true,
+      "id": 5
+    },
+    {
+      "text": "Intalnire",
+      "day": "25 Martie 10:00",
+      "reminder": false,
+      "id": 6
+    },
+    {
+      "text": "Test",
+      "day": "15 Martie ",
+      "reminder": true,
+      "id": 7
+    }
+  ]
+}
